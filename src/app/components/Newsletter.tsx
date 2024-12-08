@@ -36,9 +36,9 @@ export function Newsletter() {
               <Input
                 type="email"
                 placeholder="Enter your email address"
-                className="flex-1 bg-white/10 border-white/20 text-white placeholder:text-white/60"
+                className="flex-1 bg-white border-white/20 text-white placeholder:text-gray-600 text-center"
               />
-              <Button variant="secondary" className="w-full sm:w-auto">
+              <Button variant="secondary" className="w-full sm:w-auto h8">
                 Subscribe to Newsletter
               </Button>
             </div>

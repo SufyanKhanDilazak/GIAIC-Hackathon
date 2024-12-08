@@ -15,7 +15,7 @@ const navItems = [
 ];
 
 const categories = [
-  { name: "All Categories", href: "/category/formal" },
+  { name: "Shop", href: "/category/formal" },
 
 ];
 

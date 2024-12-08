@@ -16,15 +16,15 @@ const reviews = [
   },
   {
     id: 3,
-    name: 'Kutta',
+    name: 'Salman Khan',
     rating: 5,
     comment: 'wow grape.',
   },
   {
     id: 4,
-    name: 'Kameena.',
+    name: 'Sir Zia.',
     rating: 5,
-    comment: 'Bekaar Quality.',
+    comment: 'Wah Beta Very Nice.',
   },
   {
     id: 5,

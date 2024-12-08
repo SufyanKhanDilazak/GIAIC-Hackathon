@@ -7,6 +7,8 @@ import { Button } from "@/components/ui/button";
 import { Separator } from "@/components/ui/separator";
 import { Product } from '../../data/products';
 import ReviewsSection from "@/app/components/Reviews";
+import Immages from "@/app/components/Immages";
+
 
 interface ProductPageClientProps {
   product: Product;
@@ -138,9 +140,9 @@ export default function ProductPageClient({ product }: ProductPageClientProps) {
           </div>
         
         </div>
-        
       </div>
       <ReviewsSection/>
+    <Immages/>
     </div>
   );
 }

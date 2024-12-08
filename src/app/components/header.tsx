@@ -63,7 +63,7 @@ export function Header() {
         <nav className="hidden lg:flex items-center space-x-8">
           <DropdownMenu>
             <DropdownMenuTrigger className="flex items-center hover:text-primary">
-              Categories
+              Shop
               <ChevronDown className="ml-1 h-4 w-4" />
             </DropdownMenuTrigger>
             <DropdownMenuContent>
